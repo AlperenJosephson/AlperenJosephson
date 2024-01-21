@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AlperenJosephson
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and Html
+
